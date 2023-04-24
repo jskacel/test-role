@@ -1,0 +1,5 @@
+---
+# tasks file for test-role
+- name: Print something
+  debug:
+    msg: "Something"
